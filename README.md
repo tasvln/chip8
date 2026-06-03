@@ -2,6 +2,9 @@
 
 A CHIP-8 emulator built from scratch in Rust. Implements the full CHIP-8 instruction set with a display renderer, sound, and keyboard input.
 
+<img width="752" height="460" alt="demo" src="https://github.com/user-attachments/assets/69498ace-3039-4715-bcf4-810386e2a545" />
+
+
 ## What is CHIP-8?
 
 CHIP-8 is a virtual machine from the 1970s designed to make game development easier on early computers. It has 4KB of memory, 16 registers, a 64x32 pixel display, and 35 opcodes. Building an emulator for it is a classic systems programming exercise since it teaches you how CPUs work at the instruction level — fetch, decode, execute.
